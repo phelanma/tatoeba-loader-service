@@ -1,0 +1,12 @@
+{
+  "name": "tatoeba-loader-service",
+  "version": "0.1.0",
+  "description": "",
+  "main": "lib/index.js",
+  "keywords": [],
+  "author": "Michael Phelan <phelan.map@gmail.com> (https://github.com/phelanma/)",
+  "license": "MIT",
+  "dependencies": {
+    "mongodb-driver": "^0.1.0"
+  }
+}
